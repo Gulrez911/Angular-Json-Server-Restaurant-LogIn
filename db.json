@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "gulfarooqui1@gmail.com",
+      "email": "gulfarooqui1@gmail.com",
+      "mobile": "09833685778",
+      "address": "Ruby B – Shil Phata, Mumbra",
+      "service": "sdf"
+    },
+    {
+      "id": 4,
+      "name": "gulshadalam314@gmail.com",
+      "email": "gulshadalam314@gmail.com",
+      "mobile": "12345",
+      "address": "MOH:- THAWAI",
+      "service": "Testest"
+    },
+    {
+      "id": 5,
+      "name": "Shahid",
+      "email": "shahid@gmail.com",
+      "mobile": "343426264",
+      "address": "sima",
+      "service": "Tea"
+    },
+    {
+      "id": 6,
+      "name": "Shahab",
+      "email": "shahab@gmail.com",
+      "mobile": "9338456566",
+      "address": "Thawai",
+      "service": "Coffee"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

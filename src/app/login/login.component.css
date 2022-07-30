@@ -1,0 +1,18 @@
+.container{
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+}
+.card{
+    position: absolute;
+    border: 1px solid black;
+    padding: 45px;
+    width: 550px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.btn22{
+    background: #2d40c7;
+    border: navajowhite;
+    padding: 8px 20px;
+    border-radius: 4px;
+}
